@@ -36,11 +36,11 @@ SERVER_ID = "9c6d345a29d244089d4a4931fb166d3c"
 SECRET_KEY_NAME = "private_20200407171032.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://oz-kintai-app.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-159-112-44.compute-1.amazonaws.com"
+DB_NAME = "dflo4027e7h4mc"
+DB_USER = "mpgebuvdjyjqhy"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "8f29cb8062cc94ba88ef0fdf5dbca99d04d631cd02931757ab77d2b40297bdbf"
